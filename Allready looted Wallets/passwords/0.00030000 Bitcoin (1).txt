@@ -1,0 +1,18 @@
+Bitcoin Wallet Backup 
+ 
+ 
+Your private key is: 
+1c8bfe8f801d79745c4631d09fff36c82aa37fc4cce4fc946683d7b336b63032
+ 
+Your public key is: 
+0472d7b27be57d764681646b99b8ad08791781c746b739beb5870d6b082ade720dd8a480c16c8e225073b14cc292423fd48f9b995db7eb83b5a6b95b14d61b70ec
+ 
+Your adress is: 
+1LxFiSoR4U4WjRDEV2Nfad24nXq3wYqniB
+ 
+The random key was: 
+letmein
+ 
+The funded balance was: 
+0.00030000 Bitcoin 
+ 

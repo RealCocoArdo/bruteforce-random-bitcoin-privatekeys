@@ -1,0 +1,18 @@
+Bitcoin Wallet Backup 
+ 
+ 
+Your private key is: 
+1d1f840016d43f58b01acacc148e99707aecab9074900aeb3f143a8ebb9135c6
+ 
+Your public key is: 
+0425474abea7c50954c1b0fe631f94af2f8d6aa31e2979ea1c667baba633a0f63a6a314a26318bb3d339194a8f017eb3baed268afd34e101ed99ab1e25f86acdfe
+ 
+Your adress is: 
+16f9r6DbQQuvEYyNgthPGbRgrdFFqFTisq
+ 
+The random key was: 
+Frederico
+ 
+The funded balance was: 
+0.00005460 Bitcoin 
+ 

@@ -10,7 +10,7 @@ I take no responsibilitiy for abusing my code for a bad purpose.
 1. It takes a random input, for example common names or passwords
 2. Then it uses sha256 to create a private key of it (how it was done in the old days)
 3. It creates a Bitcoin adress of that private key
-4. It checks on <a target="_blank" href="https://mempool.space">mempool.space</a> if there is or was money on that adress
+4. It checks on <a target="blank" href="https://mempool.space">mempool.space</a> if there is or was money on that adress
 5. It stores a .txt file of Succesfull and allready looted private keys
 
 <h2>Requirements </h2>
@@ -51,3 +51,4 @@ py "count up.py"
 <h2>Ressources</h2>
 
 <a href="https://learnmeabitcoin.com/tools/sha256/?string=%23BTC&multiple=1" taget="_blank">Sha256 calculator</a>
+<a target="blank" href="https://bfr.sate.tools">Check your adresses on diffrent forks of Bitcoin</a>

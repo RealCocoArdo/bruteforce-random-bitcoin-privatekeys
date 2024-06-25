@@ -8,9 +8,9 @@ I take no responsibilitiy for abusing my code for a bad purpose.
 <h2>How it works</h2>
 
 1. It takes a random input, for example common names or passwords
-2. Then it uses sha256 to create a private Key of it (how it was done in the old days)
-3. It creates a Bitcoin adresses of that private key
-4. It checks on mempool.space if there is or was money on that adress
+2. Then it uses sha256 to create a private key of it (how it was done in the old days)
+3. It creates a Bitcoin adress of that private key
+4. It checks on <a target="_blank" href="https://mempool.space">mempool.space</a> if there is or was money on that adress
 5. It stores a .txt file of Succesfull and allready looted private keys
 
 <h2>Requirements </h2>

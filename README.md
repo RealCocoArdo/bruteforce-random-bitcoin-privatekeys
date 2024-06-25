@@ -15,8 +15,8 @@ I take no responsibilitiy for abusing my code for a bad purpose.
 
 <h2>Requirements </h2>
 
-* Latest Python version
-* Pip installed
+* Latest <a target="blank" href="https://www.python.org/">Python</a> version
+* Pip installed (should be installed with python)
 
 <h2>Start the program</h2>
 
@@ -50,5 +50,5 @@ py "count up.py"
 
 <h2>Ressources</h2>
 
-<a href="https://learnmeabitcoin.com/tools/sha256/?string=%23BTC&multiple=1" taget="_blank">Sha256 calculator</a>
-<a target="blank" href="https://bfr.sate.tools">Check your adresses on diffrent forks of Bitcoin</a>
+* <a href="https://learnmeabitcoin.com/tools/sha256/?string=%23BTC&multiple=1" taget="_blank">Sha256 calculator</a>
+* <a target="blank" href="https://bfr.sate.tools">Check your adresses on diffrent forks of Bitcoin</a>

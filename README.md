@@ -24,6 +24,9 @@ I take no responsibilitiy for abusing my code for a bad purpose.
 2. Open your terminal or cmd
 3. Navigate to the folder where you stored the programm with `cd folderName` and `cd ..`
 4. Install required packages via pip
+```
+pip install requests bitcoin time itertools random string wonderwords
+```
 5. Start the file with the random input method of your choice
 ```
 py random_.py
@@ -48,12 +51,3 @@ py "count up.py"
 <h2>Ressources</h2>
 
 <a href="https://learnmeabitcoin.com/tools/sha256/?string=%23BTC&multiple=1" taget="_blank">Sha256 calculator</a>
-
-| Seconds | Minutes | Hours |
-|---------|---------|------|
-| 60 | 1 | |
-| 300 | 5 | |
-| 600 | 10 | |
-| 3600 | 60 | 1 |
-| 18000 | 300 | 5 |
-| 86400 | 1440 | 24 |

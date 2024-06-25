@@ -20,7 +20,7 @@ I take no responsibilitiy for abusing my code for a bad purpose.
 
 <h2>Start the program</h2>
 
-1. Download the code
+1. <a traget="blank" href="https://github.com/RealCocoArdo/bruteforce-random-bitcoin-privatekeys/archive/refs/heads/main.zip">Download</a> or cloen the code
 2. Open your terminal or cmd
 3. Navigate to the folder where you stored the programm with `cd folderName` and `cd ..`
 4. Install required packages via pip

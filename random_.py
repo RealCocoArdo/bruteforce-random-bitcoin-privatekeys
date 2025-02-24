@@ -7,7 +7,7 @@ import string
 while True:
     # generates a random key of length 5
     # random_key = ''.join(random.choice(string.ascii_lowercase + string.digits) for _ in range(6))
-    random_key = ''.join(random.choice(string.ascii_lowercase + string.ascii_uppercase + string.digits) for _ in range(2))
+    random_key = ''.join(random.choice(string.ascii_lowercase + string.ascii_uppercase + string.digits) for _ in range(16))
     print(random_key)
     time.sleep(1.2)
     private_key = bitcoin.sha256(random_key)
